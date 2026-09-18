@@ -1,4 +1,4 @@
-[![release](https://github.com/humbertodias/mario-kart/actions/workflows/release.yml/badge.svg)](https://github.com/humbertodias/mario-kart/actions/workflows/release.yml)
+[![release](https://github.com/gustavosbarreto/mario-kart/actions/workflows/release.yml/badge.svg)](https://github.com/gustavosbarreto/mario-kart/actions/workflows/release.yml)
 
 Mario Kart Clone
 ================
